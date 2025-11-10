@@ -1,0 +1,3 @@
+- name: Ping all the things not just some
+  ansible.builtin.command: ping google.com
+  changed_when: false

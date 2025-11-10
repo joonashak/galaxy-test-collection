@@ -1,0 +1,6 @@
+namespace: joonashak
+name: galaxy_test
+version: 0.0.1
+readme: README.md
+authors:
+  - Joonas Häkkinen <joonashak@proton.me>
